@@ -49,5 +49,3 @@ To build a model that predicts laptop prices based on specifications like RAM, C
 
 ---
 
-## 👩‍💻 Author
-Kanchan Nikam
